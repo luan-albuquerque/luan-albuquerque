@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Luan Albuquerque
 
-- 🔭 Trabalho com Desenvolvimento Web - Back-And
+- 🔭 Trabalho com Desenvolvimento software - Back-And
 - 🌱 Estudante de Bacharelado de Sistema de Informação.
 -
  <div>
@@ -16,7 +16,10 @@
  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img  align="center" alt="Luan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img  align="center" alt="Luan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
- <img   align="center" alt="Luan-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+ <img  align="center" alt="Luan-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+ <img  align="center" alt="Luan-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img  align="center" alt="Luan-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img  align="center" alt="Luan-react" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
   <br>
  <div> 
