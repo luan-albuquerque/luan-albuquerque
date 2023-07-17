@@ -1,4 +1,4 @@
-## Olá, Eu sou o Luan Albuquerque
+## Olá, Eu sou o Luan
 
 - 🔭 Trabalho com Desenvolvimento software - Back-And
 - 🌱 Estudante de Bacharelado de Sistema de Informação.
