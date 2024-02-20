@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Luan
 
 - 🔭 Trabalho com Desenvolvimento software - Back-And
-- 🌱 Estudante de Bacharelado de Sistema de Informação.
+- 🌱 Formado em Bacharelado de Sistema de Informação.
 
 <div style="display: inline_block">
   <img  align="center" alt="Luan-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -16,11 +16,6 @@
   </div>
   <br>
   
- <div>
-  <a href="https://github.com/luan-albuquerque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-albuquerque&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
   <br>
  <div> 
